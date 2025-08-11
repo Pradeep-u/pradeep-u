@@ -5,7 +5,7 @@
 
 <h3 align="center">UI/UX Designer | Turning Coffee into Code | Frontend Dev in Progress</h3>
 <br>
-<p>🌱 I’m currently learning <strong>JavaScript</strong></p>
+<p>🌱 I’m currently learning <strong>Cyber Security And Ethical Hacking</strong></p>
 <br>
 <div align="center"> 
     
